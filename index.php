@@ -125,8 +125,7 @@
 	</article>
 
 	<aside>
-	  <h4>Epcot Center</h4>
-	  <p>The Epcot Center is a theme park in Disney World, Florida.</p>
+	  <h4>aside part</h4>	  
 	</aside>
 
 	<footer>
